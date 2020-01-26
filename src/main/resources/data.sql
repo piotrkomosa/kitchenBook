@@ -1,0 +1,1 @@
+insert into recipe (id, description, cookRecipe, category) values (1, 'Pizza', 'pizza2', 'Italian');
